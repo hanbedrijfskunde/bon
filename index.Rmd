@@ -1,7 +1,7 @@
 ---
 title: "HAN Bedrijfskunde"
 subtitle: "Semester 1 2018/19"
-author: "Witek ten Hove en David Hartsuiker"
+author: "Docenten: Witek ten Hove en David Hartsuiker"
 output: html_document
 ---
 
