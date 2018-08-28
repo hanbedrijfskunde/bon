@@ -1,0 +1,16 @@
+---
+title: "3e Practicum dataverwerking en analyse"
+output: html_document
+---
+
+
+### Opdracht
+
+Voor deze week lever je volgende in.
+
+
+### Docentmateriaal
+
+Intro SPSS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ADDR3_Ng5CA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -1,0 +1,27 @@
+name: "B-cluster Onderzoek"
+output_dir: "."
+navbar:
+  title: "B-cluster Onderzoek"
+  left:
+    - text: "Start"
+      href: index.html
+    - text: "Week 1"
+      href: wk1.html
+    - text: "Week 2"
+      href: wk2.html
+    - text: "Week 3"
+      href: wk3.html
+    - text: "Week 4"
+      href: wk4.html
+    - text: "Week 5"
+      href: wk5.html
+    - text: "Week 6"
+      href: wk6.html
+    - text: "Week 7"
+      href: wk7.html
+    - text: "Afronding"
+      href: afronding.html
+output:
+  html_document:
+    theme: united
+    css: styles.css

@@ -1,0 +1,27 @@
+---
+title: "Afbakening onderzoek"
+output: html_document
+---
+
+
+### Opdracht
+
+Voor deze week lever je volgende in:
+
+
+### Docentmateriaal
+
+#### Qualitative vs quantitative research
+
+##### Video 1
+
+Qualitative vs quantitative research
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvU-dMZnj7A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+##### Video 2
+
+Eisen onderzoeksvraag
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2X-QSU6-hPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+

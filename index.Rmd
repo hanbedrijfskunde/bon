@@ -1,0 +1,13 @@
+---
+title: "HAN Bedrijfskunde"
+subtitle: "Semester 1 2018/19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Dit is het platform voor B-cluster Onderzoek van de opleiding HAN Bedrijfskunde. Hier plaatsen we materiaal dat specifiek gericht is aan studenten van de opleiding die in dit semester deze module volgen.
+
+Voor alle algemene, propedeuse-brede informatie verwijzen we naar het materiaal op [Onderwijs Online](https://onderwijsonline.han.nl/elearning/content/pNWMKBDj).
