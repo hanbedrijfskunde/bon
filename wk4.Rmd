@@ -9,7 +9,7 @@ output: html_document
 Voor deze week lever je volgende in.
 
 
-### Docentmateriaal
+### Lesdocumenten
 
 Reliability vs Validity
 

@@ -9,6 +9,6 @@ output: html_document
 Voor deze week lever je volgende in.
 
 
-### Docentmateriaal
+### Lesdocumenten
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k3FgK0KfhuU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
