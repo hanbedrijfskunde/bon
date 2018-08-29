@@ -12,15 +12,13 @@ Ieder lid van elk team zoekt nog een artikel binnen hetzelfde thema op. Dit arti
 
 Het notebook moet bestaan uit een online document (website, blog, etc. of <a href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/research-and-develop-a-topic/explore-a-topic-with-research-and-collaboration/choose-a-research-topic.html" target="_blank">dit</a>) en aantrekkelijk zijn vormgegeven (voor de lezer). De url van het document stuur je naar de docent. Deze plaatst alle urls op de <a href="https://hanbedrijfskunde.github.io/bon/index.html" target="_blank">startpagina</a>.
 
-### Lesdocumenten
+### Documentatie
 
 - <a href="https://witusj.github.io/b-cluster/presentation/index.html" target="_blank">Startpresentatie</a>
 - Dina Ribbink, Allard C.R. van Riel, Veronica Liljander, Sandra Streukens, (2004) "Comfort your online customer: quality, trust and loyalty on the internet", Managing Service Quality: An International Journal, Vol. 14 Issue: 6, pp.446-456, https://doi.org/10.1108/09604520410569784
 - <a href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/research-and-develop-a-topic/overview.html" target="_blank">Tutorial</a> online onderzoeksrapportage (Google)
 
 <hr>
-
-##### Videomateriaal
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vyheXBPSsg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

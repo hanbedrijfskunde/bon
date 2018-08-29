@@ -9,7 +9,7 @@ output: html_document
 Voor deze week lever je volgende in.
 
 
-### Lesdocumenten
+### Documentatie
 
 Eisen onderzoeksvraag 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWLYCYeCFak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
