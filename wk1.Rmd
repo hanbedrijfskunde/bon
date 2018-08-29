@@ -20,7 +20,10 @@ Het notebook moet bestaan uit een online document (website, blog, etc. of <a hre
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3vyheXBPSsg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/3vyheXBPSsg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZcfmA1l6cE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/RZcfmA1l6cE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
