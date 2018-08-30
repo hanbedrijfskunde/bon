@@ -3,13 +3,38 @@ title: "Kwantitatief onderzoek / Enquete research"
 output: html_document
 ---
 
+### Voorbereiding
+Vorige week heb je met je team de eerste opzet van het onderzoeksplan afgemaakt. Daarin staan onder andere de centrale vraag en de set van deelvragen. De link naar dit online document in het notebook geplaatst.
 
 ### Opdracht
 
-Voor deze week lever je volgende in.
+De volgende stap in het data-analyse proces betreft het verzamelen van data. De data moet van voldoende kwaliteit zijn en uiteindelijk de juiste informatie opleveren om de onderzoeksvraag te beantwoorden.
+
+In dit geval gaan we de data direct bij respondenten ophalen m.b.v. een enquête. Het opstellen van een enquête is een tijdrovende activiteit en eenmaal uitgezet kan het proces niet meer worden onderbroken en aangepast. Als dus in deze fase fouten worden gemaakt, betekent dit dat de data slecht of zelfs onbruikbaar is en dat het onderzoek is mislukt.
+
+Dit stadium in het proces vereist daarom de hoogste mate van aandacht en concentratie. Tijdens het werkcollege werk je met je team een aantal passende enquêtevragen uit. Alle vragen worden samengevoegd en wederom wordt met de groep bepaald met welke vragen een zo volledig en duidelijk mogelijk antwoord wordt verkregen op de onderzoeksvraag.
+<hr>
+<div class="resp-container">
+<iframe class="resp-iframe-slide" allowfullscreen="true" frameborder="0" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQBzc8uAJgimoVFKxKkDkYw2xoeMwXCv7_52r1LWSC1K_2yWTsaDgFRJ5Ma6-3M9TAyMks2qtusCRvi/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true"></iframe>
+</div>
+<hr>
+Met je team stel je een vragenlijst op. Wat betreft de kwaliteit dient met volgende rekening te worden gehouden (de nummers verwijzen naar de betreffende onderdelen uit het studieboek):
+
+- Voldoet aan de basiseisen (7.4.1)
+- Vraagsoorten : enkelvoudig / meervoudig / halfopen / schaalvragen
+- De antwoordcategorieën voldoen aan de voorwaarden (7.5)
+- Over alle deelvragen zijn enquetevragen gesteld.
+- Complexe begrippen zijn geoperationaliseerd in dimensies, indicatoren en items (7.3)
+- Alle meetniveaus: nominaal / ordinaal / scale zijn aanwezig (7.7)
+- Te beantwoorden in maximaal 10 minuten
+- Bovenstaande verwerk je in een <a href="http://www.medicine.mcgill.ca/epidemiology/joseph/pbelisle/CodebookCookbook/CodebookCookbook.pdf" target="_blank">codeboek</a>
+- In het notebook staat een koppeling naar het codeboek
+- Ieder teamlid beschrijft zijn bijdrage aan de kwaliteit van de vragenlijst
+- TIP: gebruik de wetenschappelijke artikelen als inspiratie voor bovenstaande
 
 
 ### Documentatie
-
-Eisen onderzoeksvraag 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LWLYCYeCFak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<hr>
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/LWLYCYeCFak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
