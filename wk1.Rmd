@@ -3,6 +3,8 @@ title: "Probleemverkenning"
 output: html_document
 ---
 
+### Voorbereiding
+Voor het werkcollege heb je de beschrijving van de module bestudeerd (zie <a href="https://onderwijsonline.han.nl/elearning/content/pNWMKBDj" target="_blank">Onderwijs Online</a>).
 
 ### Opdracht
 
