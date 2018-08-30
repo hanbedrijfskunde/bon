@@ -35,6 +35,5 @@ Verder geldt het volgende:
 
 <hr>
 <div class="resp-container">
-  <iframe class="resp-iframe" src="https://www.youtube.com/embed/LWLYCYeCFak" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/QauomrFcrXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
