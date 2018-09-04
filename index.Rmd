@@ -12,3 +12,20 @@ knitr::opts_chunk$set(echo = TRUE)
 Dit is het platform voor B-cluster Onderzoek van de opleiding HAN Bedrijfskunde. Hier plaatsen we materiaal dat specifiek gericht is aan studenten HAN Bedrijfskunde die in dit semester deze module volgen.
 
 Voor alle algemene, propedeuse-brede informatie verwijzen we naar het materiaal op <a href="https://onderwijsonline.han.nl/elearning/content/pNWMKBDj" target="_blank">Onderwijs Online</a>.
+
+Teams houden hun voortgang bij in online notebooks. Volg onderstaande links voor de afzonderlijke documenten:
+
+- <a href="https://docs.google.com/document/d/1pTcvDSJAVtoy4snHTP8vBLb3CrjbDvT_v_fM-LUwvr0/edit?usp=sharing" target="_blank">Team 1</a>
+- <a href="https://docs.google.com/document/d/1Rpt9xdrpAVxcAd59vPQzF0HsjicEjNPtHcRdVdLQvd4/edit?usp=sharing" target="_blank">Team 2</a>
+- <a href="https://docs.google.com/document/d/1rCMsqTLtAjvXX-TXwLn1n3szb1ziZqdod66x_IW4flA/edit?usp=sharing" target="_blank">Team 3</a>
+- <a href="https://docs.google.com/document/d/1-ujFM2Arte_yDAHCbI-CFqK-8K4xYbTB8o_m8XFEvjA/edit?usp=sharing" target="_blank">Team 4</a>
+- <a href="https://docs.google.com/document/d/11kXlcm96TbyrO3q1ZbfMDc_CPjYerp5uKh6mrQTJ3Hg/edit?usp=sharing" target="_blank">Team 5</a>
+- <a href="https://docs.google.com/document/d/1WLPIYlp8kcEYYD9jyTH6589BFVSI2XL3qXFpqMv9YbQ/edit?usp=sharing" target="_blank">Team 6</a>
+- <a href="https://docs.google.com/document/d/1KIi7iYRcxyAjf9z9BAjcpdISKD82VasS3B0aE_u91Zo/edit?usp=sharing" target="_blank">Team 7</a>
+- <a href="https://docs.google.com/document/d/1UNtcU7artnmqoAlBHtA48Iy4Y-0uhMqymzRWxRv1p74/edit?usp=sharing" target="_blank">Team 8</a>
+- <a href="https://docs.google.com/document/d/1_1Z5xKQIuitrefLxVVn4TixSywF3l_0XNR8iON33jrE/edit?usp=sharing" target="_blank">Team 9</a>
+- <a href="https://docs.google.com/document/d/1d3DX9M16VMALh8qPZ66Vm5nvQpvFN4vdkCL3HwaR6vc/edit?usp=sharing" target="_blank">Team 10</a>
+
+
+
+
