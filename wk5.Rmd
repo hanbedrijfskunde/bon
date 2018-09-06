@@ -4,13 +4,4 @@ output: html_document
 ---
 
 
-### Opdracht
-
-Voor deze week lever je volgende in.
-
-
-### Documentatie
-
-Typen onderzoeksvragen en eisen onderzoeksvragen en antwoord categorieën
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i-5U9F-KzBY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Under construction

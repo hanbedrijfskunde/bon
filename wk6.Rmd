@@ -4,13 +4,4 @@ output: html_document
 ---
 
 
-### Opdracht
-
-Voor deze week lever je volgende in.
-
-
-### Documentatie
-
-Meetniveaus
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPHYPXBK_ks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Under construction
