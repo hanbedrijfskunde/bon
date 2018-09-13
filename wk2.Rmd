@@ -32,6 +32,10 @@ Verder geldt het volgende:
 - TIP: gebruik de wetenschappelijke artikelen als inspiratie voor bovenstaande
 
 ### Documentatie
+<hr>
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vQw_NoRUSAAWCmgvZ9-G4SMElzbxXs9Mp6xdiYxnkNjwAmjyvErzVPruU0JL5d2AaXDlL3t03BwX8a3/embed?start=false&loop=false&delayms=3000" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <hr>
 <div class="resp-container">
