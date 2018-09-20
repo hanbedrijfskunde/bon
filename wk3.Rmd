@@ -34,6 +34,13 @@ Met je team stel je een vragenlijst op. Wat betreft de kwaliteit dient met volge
 
 
 ### Documentatie
+- Madacsi, H. (januari, 2018). De invloed van demografische factoren op de relatie tussen de tevredenheid over orderprocessen, gepercipieerde waarde en herhaalaankoop intentie in een online omgeving. Geraadpleegd op 13 september 2018, van http://dspace.ou.nl/bitstream/1820/9536/1/Madacsi%20H%20MM9906%20AF%20scriptie.pdf
+
+<hr>
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://docs.google.com/presentation/d/e/2PACX-1vQyCn8P63KQRzq_BHRqw_kEyg8c4Qr5JmxFWLuq_4gFwPj5thky6NSwHaTUms0c0Tm8jW2tM9fiA1h3/embed?start=false&loop=false&delayms=3000" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 <hr>
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://www.youtube.com/embed/i-5U9F-KzBY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
