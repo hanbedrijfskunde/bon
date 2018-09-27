@@ -15,7 +15,7 @@ In dit geval gaan we de data direct bij respondenten ophalen m.b.v. een enquête
 Dit stadium in het proces vereist daarom de hoogste mate van aandacht en concentratie. Tijdens het werkcollege werk je met je team een aantal passende enquêtevragen uit. Alle vragen worden samengevoegd en wederom wordt met de groep bepaald met welke vragen een zo volledig en duidelijk mogelijk antwoord wordt verkregen op de onderzoeksvraag.
 <hr>
 <div class="resp-container">
-<iframe class="resp-iframe" allowfullscreen="true" frameborder="0" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2_72qzfCBiZpuS98PUzLodLo2u-rHDNx1j0Il-a2Dn1MT5MSLfP6Ut6qONmQ9ja3qN9x8iuSP65kw/pub?start=true&loop=true&delayms=3000" webkitallowfullscreen="true"></iframe>
+<iframe class="resp-iframe" allowfullscreen="true" frameborder="0" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2_72qzfCBiZpuS98PUzLodLo2u-rHDNx1j0Il-a2Dn1MT5MSLfP6Ut6qONmQ9ja3qN9x8iuSP65kw/embed?start=false&loop=false&delayms=3000" webkitallowfullscreen="true"></iframe>
 </div>
 <hr>
 Met je team stel je een vragenlijst op. Wat betreft de kwaliteit dient met volgende rekening te worden gehouden (de nummers verwijzen naar de betreffende onderdelen uit het studieboek):
