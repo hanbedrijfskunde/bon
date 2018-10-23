@@ -3,5 +3,6 @@ title: "3e Practicum dataverwerking en analyse"
 output: html_document
 ---
 
+Deze week werk je in je eigen <a href="https://rstudio.cloud/spaces/5344/join?access_code=W0HZjf0cguMPVM5LODaL%2FqHEW8mSGFUk%2BEqMH5aH" target="_blank">R-Notebook</a> en volg je de eerste vier stappen uit het data analyse proces: begrijpen, voorbereiden, modeleren en evalueren.
 
-Under construction
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/1200px-CRISP-DM_Process_Diagram.png" width=70%>
