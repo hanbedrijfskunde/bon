@@ -1,9 +1,0 @@
----
-title: "Instructies en beoordeling"
-output: html_document
----
-
-
-## Succes met het tentamen!
-
-![examen](exam.jpg)

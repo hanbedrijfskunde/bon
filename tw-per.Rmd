@@ -1,0 +1,16 @@
+---
+title: "Activiteiten"
+output: html_document
+---
+
+
+## Week 1 - Beschrijvende statistiek
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/1200px-CRISP-DM_Process_Diagram.png" alt="Smiley face" height="300" width="300">
+
+Ga naar <a href="https://rstudio.cloud/spaces/5344/join?access_code=W0HZjf0cguMPVM5LODaL%2FqHEW8mSGFUk%2BEqMH5aH" target="_blank">RStudio Cloud</a> en open het project "Statistiek1"
+<hr>
+
+## Week 2 - Inferentiele statistiek
+
+![](https://qph.fs.quoracdn.net/main-qimg-7d231419268ac9dd87e2f352ce1811c8)

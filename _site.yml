@@ -19,8 +19,8 @@ navbar:
       href: wk6.html
     - text: "Week 7"
       href: wk7.html
-    - text: "Afronding"
-      href: afronding.html
+    - text: "Tweede periode"
+      href: tw-per.html
 output:
   html_document:
     theme: united
