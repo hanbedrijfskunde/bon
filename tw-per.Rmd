@@ -16,6 +16,12 @@ Ga naar <a href="https://rstudio.cloud/spaces/5344/join?access_code=W0HZjf0cguMP
 
 ![](https://qph.fs.quoracdn.net/main-qimg-7d231419268ac9dd87e2f352ce1811c8)
 
+[Voorbeeld regressie](https://docs.google.com/spreadsheets/d/1Op6i3TbZBGjeeJ2f0ZHENLkXfPPX287a7-o0pCB6P9Q/copy)
+
+[Voorbeeld chi-kwadraat](https://docs.google.com/spreadsheets/d/1kmfhaS3CtqzUMZS7LVgr6RNmhbRHWumsdNDRtaK0xtw/copy)
+
+[Voorbeeld ANOVA](https://docs.google.com/spreadsheets/d/19ctncFxVRmyP0MPnIasKcGdf8xtg8ZzMvtpUTfEzW4c/copy)
+
 <hr>
 
 ## Afronding
