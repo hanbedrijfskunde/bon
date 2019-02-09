@@ -17,6 +17,8 @@ Voor alle algemene, propedeuse-brede informatie verwijzen we naar het materiaal 
 
 ### BKA-B03
 
+<img src="bkab03.png" width=140px>
+
 Ieder team houdt de voortgang bij in een online notebook. Volg onderstaande links voor de afzonderlijke documenten:
 
 - <a href="" target="_blank">Team 1</a>
@@ -31,6 +33,8 @@ Ieder team houdt de voortgang bij in een online notebook. Volg onderstaande link
 - <a href="" target="_blank">Team 10</a>
 
 ### BKN-B07
+
+<img src="bknb07.png" width=140px>
 
 Ieder team houdt de voortgang bij in een online notebook. Volg onderstaande links voor de afzonderlijke documenten:
 
