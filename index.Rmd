@@ -13,19 +13,34 @@ Dit is het platform voor B-cluster Onderzoek van de opleiding HAN Bedrijfskunde.
 
 Voor alle algemene, propedeuse-brede informatie verwijzen we naar het materiaal op <a href="https://onderwijsonline.han.nl/elearning/content/pNWMKBDj" target="_blank">Onderwijs Online</a>. Mocht je vragen hebben waarvoor je de antwoorden niet online hebt gevonden, dan kun je mailen naar: <a href="mailto:witek.tenhove@han.nl?Subject=B-cluster%20onderzoek%20" target="_top">Witek ten Hove</a> of <a href="mailto:david.hartsuiker@han.nl?Subject=B-cluster%20onderzoek%20" target="_top">David Hartsuiker</a>
 
-Teams houden hun voortgang bij in online notebooks. Volg onderstaande links voor de afzonderlijke documenten:
+## Teams { .tabset}
 
-- <a href="https://drive.google.com/open?id=1pTcvDSJAVtoy4snHTP8vBLb3CrjbDvT_v_fM-LUwvr0" target="_blank">Team 1</a>
-- <a href="https://1drv.ms/f/s!AoKF5PaYIkEt4R94GfuDleC_Kugp" target="_blank">Team 2</a>
-- <a href="https://tdeklein7.wixsite.com/website" target="_blank">Team 3</a>
-- <a href="https://drive.google.com/open?id=1-ujFM2Arte_yDAHCbI-CFqK-8K4xYbTB8o_m8XFEvjA" target="_blank">Team 4</a>
-- <a href="https://drive.google.com/open?id=11kXlcm96TbyrO3q1ZbfMDc_CPjYerp5uKh6mrQTJ3Hg" target="_blank">Team 5</a>
-- <a href="https://drive.google.com/open?id=1WLPIYlp8kcEYYD9jyTH6589BFVSI2XL3qXFpqMv9YbQ" target="_blank">Team 6</a>
-- <a href="https://ramonbergevoet.wixsite.com/onderzoek" target="_blank">Team 7</a>
-- <a href="https://drive.google.com/open?id=1UNtcU7artnmqoAlBHtA48Iy4Y-0uhMqymzRWxRv1p74" target="_blank">Team 8</a>
-- <a href="https://drive.google.com/open?id=1_1Z5xKQIuitrefLxVVn4TixSywF3l_0XNR8iON33jrE" target="_blank">Team 9</a>
-- <a href="https://drive.google.com/open?id=1d3DX9M16VMALh8qPZ66Vm5nvQpvFN4vdkCL3HwaR6vc" target="_blank">Team 10</a>
+### BKA-B03
 
+Ieder team houdt de voortgang bij in een online notebook. Volg onderstaande links voor de afzonderlijke documenten:
 
+- <a href="" target="_blank">Team 1</a>
+- <a href="" target="_blank">Team 2</a>
+- <a href="" target="_blank">Team 3</a>
+- <a href="" target="_blank">Team 4</a>
+- <a href="http://mvoost.simplesite.com/" target="_blank">Team 5</a>
+- <a href="" target="_blank">Team 6</a>
+- <a href="" target="_blank">Team 7</a>
+- <a href="" target="_blank">Team 8</a>
+- <a href="" target="_blank">Team 9</a>
+- <a href="" target="_blank">Team 10</a>
 
+### BKN-B07
 
+Ieder team houdt de voortgang bij in een online notebook. Volg onderstaande links voor de afzonderlijke documenten:
+
+- <a href="" target="_blank">Team 1</a>
+- <a href="" target="_blank">Team 2</a>
+- <a href="" target="_blank">Team 3</a>
+- <a href="" target="_blank">Team 4</a>
+- <a href="" target="_blank">Team 5</a>
+- <a href="" target="_blank">Team 6</a>
+- <a href="" target="_blank">Team 7</a>
+- <a href="" target="_blank">Team 8</a>
+- <a href="" target="_blank">Team 9</a>
+- <a href="" target="_blank">Team 10</a>
