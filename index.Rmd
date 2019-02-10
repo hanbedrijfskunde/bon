@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Dit is het platform voor B-cluster Onderzoek van de opleiding HAN Bedrijfskunde. Hier plaatsen we materiaal dat specifiek gericht is uit onderstaande groepen die in dit semester deze module volgen.
+Dit is het platform voor B-cluster Onderzoek van de opleiding HAN Bedrijfskunde. Hier plaatsen we materiaal dat specifiek gericht is aan onderstaande groepen die in dit semester deze module volgen.
 
 Voor alle algemene, propedeuse-brede informatie verwijzen we naar het materiaal op <a href="https://onderwijsonline.han.nl/elearning/content/pNWMKBDj" target="_blank">Onderwijs Online</a>. Mocht je vragen hebben waarvoor je de antwoorden niet online hebt gevonden, dan kun je mailen naar: <a href="mailto:witek.tenhove@han.nl?Subject=B-cluster%20onderzoek%20" target="_top">Witek ten Hove</a>, <a href="mailto:david.hartsuiker@han.nl?Subject=B-cluster%20onderzoek%20" target="_top">David Hartsuiker</a> of <a href="mailto:frans. beijderwellen@han.nl?Subject=B-cluster%20onderzoek%20" target="_top">Frans Beijderwellen</a>
 
