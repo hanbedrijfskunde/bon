@@ -37,8 +37,9 @@ Verder geldt het volgende:
 - Ieder teamlid beschrijft zijn bijdrage aan de kwaliteit van het onderzoeksplan
 - TIP: gebruik de wetenschappelijke artikelen als inspiratie voor bovenstaande
 
-### Documentatie
 <hr>
+
+### Documentatie
 Werkbladen: <a href="https://docs.google.com/presentation/d/1HxvxHEieafIOUuWo9YCdkzd9jEv8IkQ3TCjlfvAupgo/edit?usp=sharing" target="-blank">BDA-B03</a>, <a href="https://docs.google.com/presentation/d/1mTSmeD4A1KRkcOjGUOqHUXVaiYw5nmgBwNQlNs0Jjzs/edit?usp=sharing" target="-blank">BDN-B07</a>
 
 <div class="resp-container">
