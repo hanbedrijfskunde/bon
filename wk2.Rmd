@@ -40,7 +40,7 @@ Verder geldt het volgende:
 <hr>
 
 ### Documentatie
-Werkbladen: <a href="https://docs.google.com/presentation/d/1HxvxHEieafIOUuWo9YCdkzd9jEv8IkQ3TCjlfvAupgo/edit?usp=sharing" target="-blank">BKA-B03</a>, <a href="https://docs.google.com/presentation/d/1mTSmeD4A1KRkcOjGUOqHUXVaiYw5nmgBwNQlNs0Jjzs/edit?usp=sharing" target="-blank">BKN-B07</a>
+Werkbladen: <a href="https://docs.google.com/presentation/d/1HxvxHEieafIOUuWo9YCdkzd9jEv8IkQ3TCjlfvAupgo/edit?usp=sharing" target="-blank">BKA-B03</a>, <a href="https://docs.google.com/presentation/d/1EzEQEEMkd5wUr_dmvz6o8EbtdvfIBx_JTEkg5E2K3iE/edit?usp=sharing" target="-blank">BKN-B07</a>
 
 <br>
 
